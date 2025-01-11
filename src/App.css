@@ -1,0 +1,32 @@
+body {
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+
+.MuiContainer-root {
+  min-height: 100vh;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Google Address Search input stilini özelleştirme */
+.google-address-search {
+  position: relative;
+  width: 100%;
+}
+
+.google-address-search input {
+  width: 100%;
+  padding: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: border-color 0.2s;
+}
+
+.google-address-search input:focus {
+  border-color: #1976d2;
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(25, 118, 210, 0.2);
+}
