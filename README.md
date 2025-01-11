@@ -28,6 +28,10 @@ VITE_GOOGLE_MAPS_API_KEY=your_api_key_here
 ```bash
 npm run dev
 ```
+5. For repository access
+```bash
+https://www.npmjs.com/package/react-google-address-search/v/1.0.4
+```
 
 ## Tech Stack
 
@@ -79,7 +83,10 @@ VITE_GOOGLE_MAPS_API_KEY=your_api_key_here
 ```bash
 npm run dev
 ```
-
+5. Repoya erişim için
+```bash
+https://www.npmjs.com/package/react-google-address-search/v/1.0.4
+```
 ## Kullanılan Teknolojiler
 
 - React 18
