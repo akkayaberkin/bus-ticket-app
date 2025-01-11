@@ -30,7 +30,7 @@ npm run dev
 ```
 5. For repository access
 ```bash
-https://www.npmjs.com/package/react-google-address-search/v/1.0.4
+https://www.npmjs.com/package/react-google-address-search
 ```
 
 ## Tech Stack
@@ -85,7 +85,7 @@ npm run dev
 ```
 5. Repoya erişim için
 ```bash
-https://www.npmjs.com/package/react-google-address-search/v/1.0.4
+https://www.npmjs.com/package/react-google-address-search
 ```
 ## Kullanılan Teknolojiler
 
